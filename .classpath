@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AssessmentDescriptorAssignments"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lib_fragHMMent_assignment"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdb_astral"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lib_fastacompare"/>
+	<classpathentry kind="lib" path="/home/bohdan/SoftWare/weka-3-6-8/weka.jar" sourcepath="/home/bohdan/SoftWare/weka-3-6-8/weka-src.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Utils"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
